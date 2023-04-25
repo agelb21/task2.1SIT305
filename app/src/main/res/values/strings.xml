@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">task2.1</string>
+    <string-array name="SpinnerItemsLength">
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Centimetre</item>
+        <item>Meter</item>
+    </string-array>
+
+    <string-array name="SpinnerItemsWeight">
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+    </string-array>
+
+    <string-array name="SpinnerItemsTemperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+
+</resources>
